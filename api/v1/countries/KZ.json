@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "KZ",
+      "callingCode": 7,
+      "nationalPrefix": "8",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "7123456789",
+      "nationalFormat": null,
+      "internationalFormat": null
+    }
+  ]
+}

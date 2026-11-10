@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "MT",
+      "callingCode": 356,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21001234",
+      "nationalFormat": "2100 1234",
+      "internationalFormat": "2100 1234"
+    }
+  ]
+}

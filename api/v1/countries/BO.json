@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "BO",
+      "callingCode": 591,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "22123456",
+      "nationalFormat": "2 2123456",
+      "internationalFormat": "2 2123456"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "SK",
+      "callingCode": 421,
+      "nationalPrefix": "0",
+      "digits": [
+        7,
+        9
+      ],
+      "digitsMin": 7,
+      "digitsMax": 9,
+      "exampleNumber": "221234567",
+      "nationalFormat": "2 212 345 67",
+      "internationalFormat": "2 212 345 67"
+    }
+  ]
+}

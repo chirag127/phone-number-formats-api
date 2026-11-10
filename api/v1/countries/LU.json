@@ -1,0 +1,17 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "LU",
+      "callingCode": 352,
+      "nationalPrefix": null,
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "27123456",
+      "nationalFormat": "27 12 34 56",
+      "internationalFormat": "27 12 34 56"
+    }
+  ]
+}

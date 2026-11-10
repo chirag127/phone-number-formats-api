@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "TW",
+      "callingCode": 886,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "221234567",
+      "nationalFormat": "2 2123 4567",
+      "internationalFormat": "2 2123 4567"
+    }
+  ]
+}

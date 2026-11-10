@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "CG",
+      "callingCode": 242,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "222123456",
+      "nationalFormat": "22 212 3456",
+      "internationalFormat": "22 212 3456"
+    }
+  ]
+}

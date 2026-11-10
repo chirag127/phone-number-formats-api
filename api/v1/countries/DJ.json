@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "DJ",
+      "callingCode": 253,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21360003",
+      "nationalFormat": "21 36 00 03",
+      "internationalFormat": "21 36 00 03"
+    }
+  ]
+}

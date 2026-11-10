@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "AU",
+      "callingCode": 61,
+      "nationalPrefix": "0",
+      "digits": [
+        10,
+        12
+      ],
+      "digitsMin": 10,
+      "digitsMax": 12,
+      "exampleNumber": "212345678",
+      "nationalFormat": "2 1234 5678",
+      "internationalFormat": "2 1234 5678"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "SZ",
+      "callingCode": 268,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22171234",
+      "nationalFormat": "2217 1234",
+      "internationalFormat": "2217 1234"
+    }
+  ]
+}

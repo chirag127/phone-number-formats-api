@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "ZA",
+      "callingCode": 27,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "101234567",
+      "nationalFormat": "10 123 4567",
+      "internationalFormat": "10 123 4567"
+    }
+  ]
+}

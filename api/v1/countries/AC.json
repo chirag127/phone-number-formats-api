@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "AC",
+      "callingCode": 247,
+      "nationalPrefix": null,
+      "digits": [
+        5
+      ],
+      "digitsMin": 5,
+      "digitsMax": 5,
+      "exampleNumber": "62889",
+      "nationalFormat": null,
+      "internationalFormat": null
+    }
+  ]
+}

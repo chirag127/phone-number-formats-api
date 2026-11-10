@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "TL",
+      "callingCode": 670,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2112345",
+      "nationalFormat": "211 2345",
+      "internationalFormat": "211 2345"
+    }
+  ]
+}

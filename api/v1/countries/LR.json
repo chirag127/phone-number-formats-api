@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "LR",
+      "callingCode": 231,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21234567",
+      "nationalFormat": "21 234 567",
+      "internationalFormat": "21 234 567"
+    }
+  ]
+}

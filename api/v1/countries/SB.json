@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "SB",
+      "callingCode": 677,
+      "nationalPrefix": null,
+      "digits": [
+        5
+      ],
+      "digitsMin": 5,
+      "digitsMax": 5,
+      "exampleNumber": "40123",
+      "nationalFormat": null,
+      "internationalFormat": null
+    }
+  ]
+}

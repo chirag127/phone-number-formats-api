@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "SR",
+      "callingCode": 597,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "211234",
+      "nationalFormat": "211-234",
+      "internationalFormat": "211-234"
+    }
+  ]
+}

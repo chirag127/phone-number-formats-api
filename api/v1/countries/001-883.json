@@ -1,0 +1,17 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "001",
+      "callingCode": 883,
+      "nationalPrefix": null,
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "510012345",
+      "nationalFormat": "510 012 345",
+      "internationalFormat": "510 012 345"
+    }
+  ]
+}

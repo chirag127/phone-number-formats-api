@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "EE",
+      "callingCode": 372,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "3212345",
+      "nationalFormat": "321 2345",
+      "internationalFormat": "321 2345"
+    }
+  ]
+}

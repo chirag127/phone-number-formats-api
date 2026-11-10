@@ -1,0 +1,3295 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 254,
+  "records": [
+    {
+      "isoCountry": "001",
+      "callingCode": 800,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "12345678",
+      "nationalFormat": "1234 5678",
+      "internationalFormat": "1234 5678"
+    },
+    {
+      "isoCountry": "001",
+      "callingCode": 808,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "12345678",
+      "nationalFormat": "1234 5678",
+      "internationalFormat": "1234 5678"
+    },
+    {
+      "isoCountry": "001",
+      "callingCode": 870,
+      "nationalPrefix": null,
+      "digits": [
+        9,
+        12
+      ],
+      "digitsMin": 9,
+      "digitsMax": 12,
+      "exampleNumber": "301234567",
+      "nationalFormat": "301 234 567",
+      "internationalFormat": "301 234 567"
+    },
+    {
+      "isoCountry": "001",
+      "callingCode": 878,
+      "nationalPrefix": null,
+      "digits": [
+        12
+      ],
+      "digitsMin": 12,
+      "digitsMax": 12,
+      "exampleNumber": "101234567890",
+      "nationalFormat": "10 12345 67890",
+      "internationalFormat": "10 12345 67890"
+    },
+    {
+      "isoCountry": "001",
+      "callingCode": 881,
+      "nationalPrefix": null,
+      "digits": [
+        9,
+        10
+      ],
+      "digitsMin": 9,
+      "digitsMax": 10,
+      "exampleNumber": "612345678",
+      "nationalFormat": "6 123 45678",
+      "internationalFormat": "6 123 45678"
+    },
+    {
+      "isoCountry": "001",
+      "callingCode": 882,
+      "nationalPrefix": null,
+      "digits": [
+        12
+      ],
+      "digitsMin": 12,
+      "digitsMax": 12,
+      "exampleNumber": "3421234",
+      "nationalFormat": "34 21234",
+      "internationalFormat": "34 21234"
+    },
+    {
+      "isoCountry": "001",
+      "callingCode": 883,
+      "nationalPrefix": null,
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "510012345",
+      "nationalFormat": "510 012 345",
+      "internationalFormat": "510 012 345"
+    },
+    {
+      "isoCountry": "001",
+      "callingCode": 888,
+      "nationalPrefix": null,
+      "digits": [
+        11
+      ],
+      "digitsMin": 11,
+      "digitsMax": 11,
+      "exampleNumber": "12345678901",
+      "nationalFormat": "123 456 78901",
+      "internationalFormat": "123 456 78901"
+    },
+    {
+      "isoCountry": "001",
+      "callingCode": 979,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "123456789",
+      "nationalFormat": "1 2345 6789",
+      "internationalFormat": "1 2345 6789"
+    },
+    {
+      "isoCountry": "AC",
+      "callingCode": 247,
+      "nationalPrefix": null,
+      "digits": [
+        5
+      ],
+      "digitsMin": 5,
+      "digitsMax": 5,
+      "exampleNumber": "62889",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "AD",
+      "callingCode": 376,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "712345",
+      "nationalFormat": "712 345",
+      "internationalFormat": "712 345"
+    },
+    {
+      "isoCountry": "AE",
+      "callingCode": 971,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22345678",
+      "nationalFormat": "2 234 5678",
+      "internationalFormat": "2 234 5678"
+    },
+    {
+      "isoCountry": "AF",
+      "callingCode": 93,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "234567890",
+      "nationalFormat": "23 456 7890",
+      "internationalFormat": "23 456 7890"
+    },
+    {
+      "isoCountry": "AG",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2684601234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "AI",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2644612345",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "AL",
+      "callingCode": 355,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22345678",
+      "nationalFormat": "22 345 678",
+      "internationalFormat": "22 345 678"
+    },
+    {
+      "isoCountry": "AM",
+      "callingCode": 374,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "10123456",
+      "nationalFormat": "10 123456",
+      "internationalFormat": "10 123456"
+    },
+    {
+      "isoCountry": "AO",
+      "callingCode": 244,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "222123456",
+      "nationalFormat": "222 123 456",
+      "internationalFormat": "222 123 456"
+    },
+    {
+      "isoCountry": "AR",
+      "callingCode": 54,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "1123456789",
+      "nationalFormat": "11 2345-6789",
+      "internationalFormat": "11 2345-6789"
+    },
+    {
+      "isoCountry": "AS",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "6846221234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "AT",
+      "callingCode": 43,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "1234567890",
+      "nationalFormat": "1 234567890",
+      "internationalFormat": "1 234567890"
+    },
+    {
+      "isoCountry": "AU",
+      "callingCode": 61,
+      "nationalPrefix": "0",
+      "digits": [
+        10,
+        12
+      ],
+      "digitsMin": 10,
+      "digitsMax": 12,
+      "exampleNumber": "212345678",
+      "nationalFormat": "2 1234 5678",
+      "internationalFormat": "2 1234 5678"
+    },
+    {
+      "isoCountry": "AW",
+      "callingCode": 297,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "5212345",
+      "nationalFormat": "521 2345",
+      "internationalFormat": "521 2345"
+    },
+    {
+      "isoCountry": "AX",
+      "callingCode": 358,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "181234567",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "AZ",
+      "callingCode": 994,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "123123456",
+      "nationalFormat": "12 312 34 56",
+      "internationalFormat": "12 312 34 56"
+    },
+    {
+      "isoCountry": "BA",
+      "callingCode": 387,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "30212345",
+      "nationalFormat": "30 212-345",
+      "internationalFormat": "30 212-345"
+    },
+    {
+      "isoCountry": "BB",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2464123456",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "BD",
+      "callingCode": 880,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "27111234",
+      "nationalFormat": "2-7111234",
+      "internationalFormat": "2-7111234"
+    },
+    {
+      "isoCountry": "BE",
+      "callingCode": 32,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "12345678",
+      "nationalFormat": "12 34 56 78",
+      "internationalFormat": "12 34 56 78"
+    },
+    {
+      "isoCountry": "BF",
+      "callingCode": 226,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "20491234",
+      "nationalFormat": "20 49 12 34",
+      "internationalFormat": "20 49 12 34"
+    },
+    {
+      "isoCountry": "BG",
+      "callingCode": 359,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "2123456",
+      "nationalFormat": "2 123 456",
+      "internationalFormat": "2 123 456"
+    },
+    {
+      "isoCountry": "BH",
+      "callingCode": 973,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "17001234",
+      "nationalFormat": "1700 1234",
+      "internationalFormat": "1700 1234"
+    },
+    {
+      "isoCountry": "BI",
+      "callingCode": 257,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22201234",
+      "nationalFormat": "22 20 12 34",
+      "internationalFormat": "22 20 12 34"
+    },
+    {
+      "isoCountry": "BJ",
+      "callingCode": 229,
+      "nationalPrefix": null,
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "0120211234",
+      "nationalFormat": "01 20 21 12 34",
+      "internationalFormat": "01 20 21 12 34"
+    },
+    {
+      "isoCountry": "BL",
+      "callingCode": 590,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "590271234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "BM",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "4414123456",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "BN",
+      "callingCode": 673,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2345678",
+      "nationalFormat": "234 5678",
+      "internationalFormat": "234 5678"
+    },
+    {
+      "isoCountry": "BO",
+      "callingCode": 591,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "22123456",
+      "nationalFormat": "2 2123456",
+      "internationalFormat": "2 2123456"
+    },
+    {
+      "isoCountry": "BQ",
+      "callingCode": 599,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "7151234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "BR",
+      "callingCode": 55,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "1123456789",
+      "nationalFormat": "11 2345-6789",
+      "internationalFormat": "11 2345-6789"
+    },
+    {
+      "isoCountry": "BS",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2423456789",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "BT",
+      "callingCode": 975,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2345678",
+      "nationalFormat": "2 345 678",
+      "internationalFormat": "2 345 678"
+    },
+    {
+      "isoCountry": "BW",
+      "callingCode": 267,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2401234",
+      "nationalFormat": "240 1234",
+      "internationalFormat": "240 1234"
+    },
+    {
+      "isoCountry": "BY",
+      "callingCode": 375,
+      "nationalPrefix": "8",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "152450911",
+      "nationalFormat": "152 45-09-11",
+      "internationalFormat": "152 45-09-11"
+    },
+    {
+      "isoCountry": "BZ",
+      "callingCode": 501,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2221234",
+      "nationalFormat": "222-1234",
+      "internationalFormat": "222-1234"
+    },
+    {
+      "isoCountry": "CA",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "5062345678",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "CC",
+      "callingCode": 61,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "891621234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "CD",
+      "callingCode": 243,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "1234567",
+      "nationalFormat": "12 34567",
+      "internationalFormat": "12 34567"
+    },
+    {
+      "isoCountry": "CF",
+      "callingCode": 236,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21612345",
+      "nationalFormat": "21 61 23 45",
+      "internationalFormat": "21 61 23 45"
+    },
+    {
+      "isoCountry": "CG",
+      "callingCode": 242,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "222123456",
+      "nationalFormat": "22 212 3456",
+      "internationalFormat": "22 212 3456"
+    },
+    {
+      "isoCountry": "CH",
+      "callingCode": 41,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "212345678",
+      "nationalFormat": "21 234 56 78",
+      "internationalFormat": "21 234 56 78"
+    },
+    {
+      "isoCountry": "CI",
+      "callingCode": 225,
+      "nationalPrefix": null,
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2123456789",
+      "nationalFormat": "21 23 4 56789",
+      "internationalFormat": "21 23 4 56789"
+    },
+    {
+      "isoCountry": "CK",
+      "callingCode": 682,
+      "nationalPrefix": null,
+      "digits": [
+        5
+      ],
+      "digitsMin": 5,
+      "digitsMax": 5,
+      "exampleNumber": "21234",
+      "nationalFormat": "21 234",
+      "internationalFormat": "21 234"
+    },
+    {
+      "isoCountry": "CL",
+      "callingCode": 56,
+      "nationalPrefix": null,
+      "digits": [
+        10,
+        11
+      ],
+      "digitsMin": 10,
+      "digitsMax": 11,
+      "exampleNumber": "600123456",
+      "nationalFormat": "600 123 456",
+      "internationalFormat": "600 123 456"
+    },
+    {
+      "isoCountry": "CM",
+      "callingCode": 237,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "222123456",
+      "nationalFormat": "2 22 12 34 56",
+      "internationalFormat": "2 22 12 34 56"
+    },
+    {
+      "isoCountry": "CN",
+      "callingCode": 86,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "1012345678",
+      "nationalFormat": "10 1234 5678",
+      "internationalFormat": "10 1234 5678"
+    },
+    {
+      "isoCountry": "CO",
+      "callingCode": 57,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        10
+      ],
+      "digitsMin": 8,
+      "digitsMax": 10,
+      "exampleNumber": "6012345678",
+      "nationalFormat": "601 2345678",
+      "internationalFormat": "601 2345678"
+    },
+    {
+      "isoCountry": "CR",
+      "callingCode": 506,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22123456",
+      "nationalFormat": "2212 3456",
+      "internationalFormat": "2212 3456"
+    },
+    {
+      "isoCountry": "CU",
+      "callingCode": 53,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "71234567",
+      "nationalFormat": "7 1234567",
+      "internationalFormat": "7 1234567"
+    },
+    {
+      "isoCountry": "CV",
+      "callingCode": 238,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2211234",
+      "nationalFormat": "221 12 34",
+      "internationalFormat": "221 12 34"
+    },
+    {
+      "isoCountry": "CW",
+      "callingCode": 599,
+      "nationalPrefix": null,
+      "digits": [
+        7,
+        8
+      ],
+      "digitsMin": 7,
+      "digitsMax": 8,
+      "exampleNumber": "94351234",
+      "nationalFormat": "9 435 1234",
+      "internationalFormat": "9 435 1234"
+    },
+    {
+      "isoCountry": "CX",
+      "callingCode": 61,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "891641234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "CY",
+      "callingCode": 357,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22345678",
+      "nationalFormat": "22 345678",
+      "internationalFormat": "22 345678"
+    },
+    {
+      "isoCountry": "CZ",
+      "callingCode": 420,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "212345678",
+      "nationalFormat": "212 345 678",
+      "internationalFormat": "212 345 678"
+    },
+    {
+      "isoCountry": "DE",
+      "callingCode": 49,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "30123456",
+      "nationalFormat": "30 123456",
+      "internationalFormat": "30 123456"
+    },
+    {
+      "isoCountry": "DJ",
+      "callingCode": 253,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21360003",
+      "nationalFormat": "21 36 00 03",
+      "internationalFormat": "21 36 00 03"
+    },
+    {
+      "isoCountry": "DK",
+      "callingCode": 45,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "32123456",
+      "nationalFormat": "32 12 34 56",
+      "internationalFormat": "32 12 34 56"
+    },
+    {
+      "isoCountry": "DM",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "7674201234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "DO",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "8092345678",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "DZ",
+      "callingCode": 213,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "12345678",
+      "nationalFormat": "12 34 56 78",
+      "internationalFormat": "12 34 56 78"
+    },
+    {
+      "isoCountry": "EC",
+      "callingCode": 593,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22123456",
+      "nationalFormat": "2 212-3456",
+      "internationalFormat": "2-212-3456"
+    },
+    {
+      "isoCountry": "EE",
+      "callingCode": 372,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "3212345",
+      "nationalFormat": "321 2345",
+      "internationalFormat": "321 2345"
+    },
+    {
+      "isoCountry": "EG",
+      "callingCode": 20,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "234567890",
+      "nationalFormat": "2 34567890",
+      "internationalFormat": "2 34567890"
+    },
+    {
+      "isoCountry": "EH",
+      "callingCode": 212,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "528812345",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "ER",
+      "callingCode": 291,
+      "nationalPrefix": "0",
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "8370362",
+      "nationalFormat": "8 370 362",
+      "internationalFormat": "8 370 362"
+    },
+    {
+      "isoCountry": "ES",
+      "callingCode": 34,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "810123456",
+      "nationalFormat": "810 12 34 56",
+      "internationalFormat": "810 12 34 56"
+    },
+    {
+      "isoCountry": "ET",
+      "callingCode": 251,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "111112345",
+      "nationalFormat": "11 111 2345",
+      "internationalFormat": "11 111 2345"
+    },
+    {
+      "isoCountry": "FI",
+      "callingCode": 358,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "131234567",
+      "nationalFormat": "13 1234567",
+      "internationalFormat": "13 1234567"
+    },
+    {
+      "isoCountry": "FJ",
+      "callingCode": 679,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "3212345",
+      "nationalFormat": "321 2345",
+      "internationalFormat": "321 2345"
+    },
+    {
+      "isoCountry": "FK",
+      "callingCode": 500,
+      "nationalPrefix": null,
+      "digits": [
+        5
+      ],
+      "digitsMin": 5,
+      "digitsMax": 5,
+      "exampleNumber": "31234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "FM",
+      "callingCode": 691,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "3201234",
+      "nationalFormat": "320 1234",
+      "internationalFormat": "320 1234"
+    },
+    {
+      "isoCountry": "FO",
+      "callingCode": 298,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "201234",
+      "nationalFormat": "20 12 34",
+      "internationalFormat": "20 12 34"
+    },
+    {
+      "isoCountry": "FR",
+      "callingCode": 33,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "123456789",
+      "nationalFormat": "1 23 45 67 89",
+      "internationalFormat": "1 23 45 67 89"
+    },
+    {
+      "isoCountry": "GA",
+      "callingCode": 241,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "01441234",
+      "nationalFormat": "01 44 12 34",
+      "internationalFormat": "01 44 12 34"
+    },
+    {
+      "isoCountry": "GB",
+      "callingCode": 44,
+      "nationalPrefix": "0",
+      "digits": [
+        9,
+        10
+      ],
+      "digitsMin": 9,
+      "digitsMax": 10,
+      "exampleNumber": "1212345678",
+      "nationalFormat": "121 234 5678",
+      "internationalFormat": "121 234 5678"
+    },
+    {
+      "isoCountry": "GD",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "4732691234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "GE",
+      "callingCode": 995,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "322123456",
+      "nationalFormat": "32 212 34 56",
+      "internationalFormat": "32 212 34 56"
+    },
+    {
+      "isoCountry": "GF",
+      "callingCode": 594,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "594101234",
+      "nationalFormat": "594 10 12 34",
+      "internationalFormat": "594 10 12 34"
+    },
+    {
+      "isoCountry": "GG",
+      "callingCode": 44,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "1481256789",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "GH",
+      "callingCode": 233,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "302345678",
+      "nationalFormat": "30 234 5678",
+      "internationalFormat": "30 234 5678"
+    },
+    {
+      "isoCountry": "GI",
+      "callingCode": 350,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "20012345",
+      "nationalFormat": "200 12345",
+      "internationalFormat": "200 12345"
+    },
+    {
+      "isoCountry": "GL",
+      "callingCode": 299,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "321000",
+      "nationalFormat": "32 10 00",
+      "internationalFormat": "32 10 00"
+    },
+    {
+      "isoCountry": "GM",
+      "callingCode": 220,
+      "nationalPrefix": null,
+      "digits": [
+        7,
+        9
+      ],
+      "digitsMin": 7,
+      "digitsMax": 9,
+      "exampleNumber": "5661234",
+      "nationalFormat": "566 1234",
+      "internationalFormat": "566 1234"
+    },
+    {
+      "isoCountry": "GN",
+      "callingCode": 224,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "30241234",
+      "nationalFormat": "30 24 12 34",
+      "internationalFormat": "30 24 12 34"
+    },
+    {
+      "isoCountry": "GP",
+      "callingCode": 590,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "590201234",
+      "nationalFormat": "590 20 12 34",
+      "internationalFormat": "590 20 12 34"
+    },
+    {
+      "isoCountry": "GQ",
+      "callingCode": 240,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "333091234",
+      "nationalFormat": "333 091 234",
+      "internationalFormat": "333 091 234"
+    },
+    {
+      "isoCountry": "GR",
+      "callingCode": 30,
+      "nationalPrefix": null,
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2123456789",
+      "nationalFormat": "21 2345 6789",
+      "internationalFormat": "21 2345 6789"
+    },
+    {
+      "isoCountry": "GT",
+      "callingCode": 502,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22456789",
+      "nationalFormat": "2245 6789",
+      "internationalFormat": "2245 6789"
+    },
+    {
+      "isoCountry": "GU",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "6713001234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "GW",
+      "callingCode": 245,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "443201234",
+      "nationalFormat": "443 201 234",
+      "internationalFormat": "443 201 234"
+    },
+    {
+      "isoCountry": "GY",
+      "callingCode": 592,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2201234",
+      "nationalFormat": "220 1234",
+      "internationalFormat": "220 1234"
+    },
+    {
+      "isoCountry": "HK",
+      "callingCode": 852,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21234567",
+      "nationalFormat": "2123 4567",
+      "internationalFormat": "2123 4567"
+    },
+    {
+      "isoCountry": "HN",
+      "callingCode": 504,
+      "nationalPrefix": null,
+      "digits": [
+        11
+      ],
+      "digitsMin": 11,
+      "digitsMax": 11,
+      "exampleNumber": "22123456",
+      "nationalFormat": "2212-3456",
+      "internationalFormat": "2212-3456"
+    },
+    {
+      "isoCountry": "HR",
+      "callingCode": 385,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "12345678",
+      "nationalFormat": "1 2345 678",
+      "internationalFormat": "1 2345 678"
+    },
+    {
+      "isoCountry": "HT",
+      "callingCode": 509,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22453300",
+      "nationalFormat": "22 45 3300",
+      "internationalFormat": "22 45 3300"
+    },
+    {
+      "isoCountry": "HU",
+      "callingCode": 36,
+      "nationalPrefix": "06",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "12345678",
+      "nationalFormat": "1 234 5678",
+      "internationalFormat": "1 234 5678"
+    },
+    {
+      "isoCountry": "ID",
+      "callingCode": 62,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "218350123",
+      "nationalFormat": "21 8350123",
+      "internationalFormat": "21 8350123"
+    },
+    {
+      "isoCountry": "IE",
+      "callingCode": 353,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2212345",
+      "nationalFormat": "22 12345",
+      "internationalFormat": "22 12345"
+    },
+    {
+      "isoCountry": "IL",
+      "callingCode": 972,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "21234567",
+      "nationalFormat": "2-123-4567",
+      "internationalFormat": "2-123-4567"
+    },
+    {
+      "isoCountry": "IM",
+      "callingCode": 44,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "1624756789",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "IN",
+      "callingCode": 91,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "7410410123",
+      "nationalFormat": "74104 10123",
+      "internationalFormat": "74104 10123"
+    },
+    {
+      "isoCountry": "IO",
+      "callingCode": 246,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "3709100",
+      "nationalFormat": "370 9100",
+      "internationalFormat": "370 9100"
+    },
+    {
+      "isoCountry": "IQ",
+      "callingCode": 964,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "12345678",
+      "nationalFormat": "1 234 5678",
+      "internationalFormat": "1 234 5678"
+    },
+    {
+      "isoCountry": "IR",
+      "callingCode": 98,
+      "nationalPrefix": "0",
+      "digits": [
+        4,
+        5,
+        10
+      ],
+      "digitsMin": 4,
+      "digitsMax": 10,
+      "exampleNumber": "2123456789",
+      "nationalFormat": "21 2345 6789",
+      "internationalFormat": "21 2345 6789"
+    },
+    {
+      "isoCountry": "IS",
+      "callingCode": 354,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "4101234",
+      "nationalFormat": "410 1234",
+      "internationalFormat": "410 1234"
+    },
+    {
+      "isoCountry": "IT",
+      "callingCode": 39,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "0212345678",
+      "nationalFormat": "02 1234 5678",
+      "internationalFormat": "02 1234 5678"
+    },
+    {
+      "isoCountry": "JE",
+      "callingCode": 44,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "1534456789",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "JM",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "8765230123",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "JO",
+      "callingCode": 962,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "62001234",
+      "nationalFormat": "6 200 1234",
+      "internationalFormat": "6 200 1234"
+    },
+    {
+      "isoCountry": "JP",
+      "callingCode": 81,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "312345678",
+      "nationalFormat": "3-1234-5678",
+      "internationalFormat": "3-1234-5678"
+    },
+    {
+      "isoCountry": "KE",
+      "callingCode": 254,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "202012345",
+      "nationalFormat": "20 2012345",
+      "internationalFormat": "20 2012345"
+    },
+    {
+      "isoCountry": "KG",
+      "callingCode": 996,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "312123456",
+      "nationalFormat": "312 123 456",
+      "internationalFormat": "312 123 456"
+    },
+    {
+      "isoCountry": "KH",
+      "callingCode": 855,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "23756789",
+      "nationalFormat": "23 756 789",
+      "internationalFormat": "23 756 789"
+    },
+    {
+      "isoCountry": "KI",
+      "callingCode": 686,
+      "nationalPrefix": "0",
+      "digits": [
+        5,
+        8
+      ],
+      "digitsMin": 5,
+      "digitsMax": 8,
+      "exampleNumber": "31234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "KM",
+      "callingCode": 269,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "7712345",
+      "nationalFormat": "771 23 45",
+      "internationalFormat": "771 23 45"
+    },
+    {
+      "isoCountry": "KN",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "8692361234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "KP",
+      "callingCode": 850,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21234567",
+      "nationalFormat": "2 123 4567",
+      "internationalFormat": "2 123 4567"
+    },
+    {
+      "isoCountry": "KR",
+      "callingCode": 82,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "22123456",
+      "nationalFormat": "2-212-3456",
+      "internationalFormat": "2-212-3456"
+    },
+    {
+      "isoCountry": "KW",
+      "callingCode": 965,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22345678",
+      "nationalFormat": "2234 5678",
+      "internationalFormat": "2234 5678"
+    },
+    {
+      "isoCountry": "KY",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "3452221234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "KZ",
+      "callingCode": 7,
+      "nationalPrefix": "8",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "7123456789",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "LA",
+      "callingCode": 856,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21212862",
+      "nationalFormat": "21 212 862",
+      "internationalFormat": "21 212 862"
+    },
+    {
+      "isoCountry": "LB",
+      "callingCode": 961,
+      "nationalPrefix": "0",
+      "digits": [
+        7,
+        8
+      ],
+      "digitsMin": 7,
+      "digitsMax": 8,
+      "exampleNumber": "1123456",
+      "nationalFormat": "1 123 456",
+      "internationalFormat": "1 123 456"
+    },
+    {
+      "isoCountry": "LC",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "7584305678",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "LI",
+      "callingCode": 423,
+      "nationalPrefix": "0",
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2345678",
+      "nationalFormat": "234 56 78",
+      "internationalFormat": "234 56 78"
+    },
+    {
+      "isoCountry": "LK",
+      "callingCode": 94,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "112345678",
+      "nationalFormat": "112 345 678",
+      "internationalFormat": "112 345 678"
+    },
+    {
+      "isoCountry": "LR",
+      "callingCode": 231,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21234567",
+      "nationalFormat": "21 234 567",
+      "internationalFormat": "21 234 567"
+    },
+    {
+      "isoCountry": "LS",
+      "callingCode": 266,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22123456",
+      "nationalFormat": "2212 3456",
+      "internationalFormat": "2212 3456"
+    },
+    {
+      "isoCountry": "LT",
+      "callingCode": 370,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "31234567",
+      "nationalFormat": "312 34567",
+      "internationalFormat": "312 34567"
+    },
+    {
+      "isoCountry": "LU",
+      "callingCode": 352,
+      "nationalPrefix": null,
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "27123456",
+      "nationalFormat": "27 12 34 56",
+      "internationalFormat": "27 12 34 56"
+    },
+    {
+      "isoCountry": "LV",
+      "callingCode": 371,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "63123456",
+      "nationalFormat": "63 123 456",
+      "internationalFormat": "63 123 456"
+    },
+    {
+      "isoCountry": "LY",
+      "callingCode": 218,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "212345678",
+      "nationalFormat": "21-2345678",
+      "internationalFormat": "21-2345678"
+    },
+    {
+      "isoCountry": "MA",
+      "callingCode": 212,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "520123456",
+      "nationalFormat": "5 20 12 34 56",
+      "internationalFormat": "5 20 12 34 56"
+    },
+    {
+      "isoCountry": "MC",
+      "callingCode": 377,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "99123456",
+      "nationalFormat": "99 12 34 56",
+      "internationalFormat": "99 12 34 56"
+    },
+    {
+      "isoCountry": "MD",
+      "callingCode": 373,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22212345",
+      "nationalFormat": "22 212 345",
+      "internationalFormat": "22 212 345"
+    },
+    {
+      "isoCountry": "ME",
+      "callingCode": 382,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "30234567",
+      "nationalFormat": "30 234 567",
+      "internationalFormat": "30 234 567"
+    },
+    {
+      "isoCountry": "MF",
+      "callingCode": 590,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "590271234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "MG",
+      "callingCode": 261,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "202123456",
+      "nationalFormat": "20 21 234 56",
+      "internationalFormat": "20 21 234 56"
+    },
+    {
+      "isoCountry": "MH",
+      "callingCode": 692,
+      "nationalPrefix": "1",
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2471234",
+      "nationalFormat": "247-1234",
+      "internationalFormat": "247-1234"
+    },
+    {
+      "isoCountry": "MK",
+      "callingCode": 389,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22012345",
+      "nationalFormat": "2 201 2345",
+      "internationalFormat": "2 201 2345"
+    },
+    {
+      "isoCountry": "ML",
+      "callingCode": 223,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "20212345",
+      "nationalFormat": "20 21 23 45",
+      "internationalFormat": "20 21 23 45"
+    },
+    {
+      "isoCountry": "MM",
+      "callingCode": 95,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "1234567",
+      "nationalFormat": "1 234 567",
+      "internationalFormat": "1 234 567"
+    },
+    {
+      "isoCountry": "MN",
+      "callingCode": 976,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "53123456",
+      "nationalFormat": "5312 3456",
+      "internationalFormat": "5312 3456"
+    },
+    {
+      "isoCountry": "MO",
+      "callingCode": 853,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "28212345",
+      "nationalFormat": "2821 2345",
+      "internationalFormat": "2821 2345"
+    },
+    {
+      "isoCountry": "MP",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "6702345678",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "MQ",
+      "callingCode": 596,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "596301234",
+      "nationalFormat": "596 30 12 34",
+      "internationalFormat": "596 30 12 34"
+    },
+    {
+      "isoCountry": "MR",
+      "callingCode": 222,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "35123456",
+      "nationalFormat": "35 12 34 56",
+      "internationalFormat": "35 12 34 56"
+    },
+    {
+      "isoCountry": "MS",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "6644912345",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "MT",
+      "callingCode": 356,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21001234",
+      "nationalFormat": "2100 1234",
+      "internationalFormat": "2100 1234"
+    },
+    {
+      "isoCountry": "MU",
+      "callingCode": 230,
+      "nationalPrefix": null,
+      "digits": [
+        7,
+        8
+      ],
+      "digitsMin": 7,
+      "digitsMax": 8,
+      "exampleNumber": "54480123",
+      "nationalFormat": "5448 0123",
+      "internationalFormat": "5448 0123"
+    },
+    {
+      "isoCountry": "MV",
+      "callingCode": 960,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "6701234",
+      "nationalFormat": "670-1234",
+      "internationalFormat": "670-1234"
+    },
+    {
+      "isoCountry": "MW",
+      "callingCode": 265,
+      "nationalPrefix": "0",
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "1234567",
+      "nationalFormat": "1 234 567",
+      "internationalFormat": "1 234 567"
+    },
+    {
+      "isoCountry": "MX",
+      "callingCode": 52,
+      "nationalPrefix": null,
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2001234567",
+      "nationalFormat": "200 123 4567",
+      "internationalFormat": "200 123 4567"
+    },
+    {
+      "isoCountry": "MY",
+      "callingCode": 60,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "323856789",
+      "nationalFormat": "3-2385 6789",
+      "internationalFormat": "3-2385 6789"
+    },
+    {
+      "isoCountry": "MZ",
+      "callingCode": 258,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21123456",
+      "nationalFormat": "21 123 456",
+      "internationalFormat": "21 123 456"
+    },
+    {
+      "isoCountry": "NA",
+      "callingCode": 264,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "61221234",
+      "nationalFormat": "61 221 234",
+      "internationalFormat": "61 221 234"
+    },
+    {
+      "isoCountry": "NC",
+      "callingCode": 687,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "201234",
+      "nationalFormat": "20.12.34",
+      "internationalFormat": "20.12.34"
+    },
+    {
+      "isoCountry": "NE",
+      "callingCode": 227,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "20201234",
+      "nationalFormat": "20 20 12 34",
+      "internationalFormat": "20 20 12 34"
+    },
+    {
+      "isoCountry": "NF",
+      "callingCode": 672,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "106609",
+      "nationalFormat": "10 6609",
+      "internationalFormat": "10 6609"
+    },
+    {
+      "isoCountry": "NG",
+      "callingCode": 234,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2033123456",
+      "nationalFormat": "2033 12 3456",
+      "internationalFormat": "2033 12 3456"
+    },
+    {
+      "isoCountry": "NI",
+      "callingCode": 505,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21234567",
+      "nationalFormat": "2123 4567",
+      "internationalFormat": "2123 4567"
+    },
+    {
+      "isoCountry": "NL",
+      "callingCode": 31,
+      "nationalPrefix": "0",
+      "digits": [
+        5,
+        6
+      ],
+      "digitsMin": 5,
+      "digitsMax": 6,
+      "exampleNumber": "101234567",
+      "nationalFormat": "10 123 4567",
+      "internationalFormat": "10 123 4567"
+    },
+    {
+      "isoCountry": "NO",
+      "callingCode": 47,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21234567",
+      "nationalFormat": "21 23 45 67",
+      "internationalFormat": "21 23 45 67"
+    },
+    {
+      "isoCountry": "NP",
+      "callingCode": 977,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "14567890",
+      "nationalFormat": "1-4567890",
+      "internationalFormat": "1-4567890"
+    },
+    {
+      "isoCountry": "NR",
+      "callingCode": 674,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "4441234",
+      "nationalFormat": "444 1234",
+      "internationalFormat": "444 1234"
+    },
+    {
+      "isoCountry": "NU",
+      "callingCode": 683,
+      "nationalPrefix": null,
+      "digits": [
+        4
+      ],
+      "digitsMin": 4,
+      "digitsMax": 4,
+      "exampleNumber": "7012",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "NZ",
+      "callingCode": 64,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "32345678",
+      "nationalFormat": "3 234 5678",
+      "internationalFormat": "3 234 5678"
+    },
+    {
+      "isoCountry": "OM",
+      "callingCode": 968,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "23123456",
+      "nationalFormat": "23 123456",
+      "internationalFormat": "23 123456"
+    },
+    {
+      "isoCountry": "PA",
+      "callingCode": 507,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2001234",
+      "nationalFormat": "200-1234",
+      "internationalFormat": "200-1234"
+    },
+    {
+      "isoCountry": "PE",
+      "callingCode": 51,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "11234567",
+      "nationalFormat": "1 1234567",
+      "internationalFormat": "1 1234567"
+    },
+    {
+      "isoCountry": "PF",
+      "callingCode": 689,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "40412345",
+      "nationalFormat": "40 41 23 45",
+      "internationalFormat": "40 41 23 45"
+    },
+    {
+      "isoCountry": "PG",
+      "callingCode": 675,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "3123456",
+      "nationalFormat": "312 3456",
+      "internationalFormat": "312 3456"
+    },
+    {
+      "isoCountry": "PH",
+      "callingCode": 63,
+      "nationalPrefix": "0",
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "232345678",
+      "nationalFormat": "2 3234 5678",
+      "internationalFormat": "2 3234 5678"
+    },
+    {
+      "isoCountry": "PK",
+      "callingCode": 92,
+      "nationalPrefix": "0",
+      "digits": [
+        9,
+        10
+      ],
+      "digitsMin": 9,
+      "digitsMax": 10,
+      "exampleNumber": "2123456789",
+      "nationalFormat": "21 23456789",
+      "internationalFormat": "21 23456789"
+    },
+    {
+      "isoCountry": "PL",
+      "callingCode": 48,
+      "nationalPrefix": null,
+      "digits": [
+        7,
+        9
+      ],
+      "digitsMin": 7,
+      "digitsMax": 9,
+      "exampleNumber": "123456789",
+      "nationalFormat": "12 345 67 89",
+      "internationalFormat": "12 345 67 89"
+    },
+    {
+      "isoCountry": "PM",
+      "callingCode": 508,
+      "nationalPrefix": "0",
+      "digits": [
+        6,
+        9
+      ],
+      "digitsMin": 6,
+      "digitsMax": 9,
+      "exampleNumber": "430123",
+      "nationalFormat": "43 01 23",
+      "internationalFormat": "43 01 23"
+    },
+    {
+      "isoCountry": "PR",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "7872345678",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "PS",
+      "callingCode": 970,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22234567",
+      "nationalFormat": "2 223 4567",
+      "internationalFormat": "2 223 4567"
+    },
+    {
+      "isoCountry": "PT",
+      "callingCode": 351,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "212345678",
+      "nationalFormat": "21 234 5678",
+      "internationalFormat": "21 234 5678"
+    },
+    {
+      "isoCountry": "PW",
+      "callingCode": 680,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2771234",
+      "nationalFormat": "277 1234",
+      "internationalFormat": "277 1234"
+    },
+    {
+      "isoCountry": "PY",
+      "callingCode": 595,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "212345678",
+      "nationalFormat": "21 234 5678",
+      "internationalFormat": "21 234 5678"
+    },
+    {
+      "isoCountry": "QA",
+      "callingCode": 974,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "44123456",
+      "nationalFormat": "4412 3456",
+      "internationalFormat": "4412 3456"
+    },
+    {
+      "isoCountry": "RE",
+      "callingCode": 262,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "262161234",
+      "nationalFormat": "262 16 12 34",
+      "internationalFormat": "262 16 12 34"
+    },
+    {
+      "isoCountry": "RO",
+      "callingCode": 40,
+      "nationalPrefix": "0",
+      "digits": [
+        6,
+        9
+      ],
+      "digitsMin": 6,
+      "digitsMax": 9,
+      "exampleNumber": "211234567",
+      "nationalFormat": "21 123 4567",
+      "internationalFormat": "21 123 4567"
+    },
+    {
+      "isoCountry": "RS",
+      "callingCode": 381,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "10234567",
+      "nationalFormat": "10 234567",
+      "internationalFormat": "10 234567"
+    },
+    {
+      "isoCountry": "RU",
+      "callingCode": 7,
+      "nationalPrefix": "8",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "3011234567",
+      "nationalFormat": "301 123-45-67",
+      "internationalFormat": "301 123-45-67"
+    },
+    {
+      "isoCountry": "RW",
+      "callingCode": 250,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "250123456",
+      "nationalFormat": "250 123 456",
+      "internationalFormat": "250 123 456"
+    },
+    {
+      "isoCountry": "SA",
+      "callingCode": 966,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "112345678",
+      "nationalFormat": "11 234 5678",
+      "internationalFormat": "11 234 5678"
+    },
+    {
+      "isoCountry": "SB",
+      "callingCode": 677,
+      "nationalPrefix": null,
+      "digits": [
+        5
+      ],
+      "digitsMin": 5,
+      "digitsMax": 5,
+      "exampleNumber": "40123",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "SC",
+      "callingCode": 248,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "4217123",
+      "nationalFormat": "4 217 123",
+      "internationalFormat": "4 217 123"
+    },
+    {
+      "isoCountry": "SD",
+      "callingCode": 249,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "153123456",
+      "nationalFormat": "15 312 3456",
+      "internationalFormat": "15 312 3456"
+    },
+    {
+      "isoCountry": "SE",
+      "callingCode": 46,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "8123456",
+      "nationalFormat": "8-12 34 56",
+      "internationalFormat": "8 12 34 56"
+    },
+    {
+      "isoCountry": "SG",
+      "callingCode": 65,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "61234567",
+      "nationalFormat": "6123 4567",
+      "internationalFormat": "6123 4567"
+    },
+    {
+      "isoCountry": "SH",
+      "callingCode": 290,
+      "nationalPrefix": null,
+      "digits": [
+        4,
+        5
+      ],
+      "digitsMin": 4,
+      "digitsMax": 5,
+      "exampleNumber": "22158",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "SI",
+      "callingCode": 386,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "12345678",
+      "nationalFormat": "1 234 56 78",
+      "internationalFormat": "1 234 56 78"
+    },
+    {
+      "isoCountry": "SJ",
+      "callingCode": 47,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "79123456",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "SK",
+      "callingCode": 421,
+      "nationalPrefix": "0",
+      "digits": [
+        7,
+        9
+      ],
+      "digitsMin": 7,
+      "digitsMax": 9,
+      "exampleNumber": "221234567",
+      "nationalFormat": "2 212 345 67",
+      "internationalFormat": "2 212 345 67"
+    },
+    {
+      "isoCountry": "SL",
+      "callingCode": 232,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22221234",
+      "nationalFormat": "22 221234",
+      "internationalFormat": "22 221234"
+    },
+    {
+      "isoCountry": "SM",
+      "callingCode": 378,
+      "nationalPrefix": null,
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "0549886377",
+      "nationalFormat": "0549 886377",
+      "internationalFormat": "0549 886377"
+    },
+    {
+      "isoCountry": "SN",
+      "callingCode": 221,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "301012345",
+      "nationalFormat": "30 101 23 45",
+      "internationalFormat": "30 101 23 45"
+    },
+    {
+      "isoCountry": "SO",
+      "callingCode": 252,
+      "nationalPrefix": "0",
+      "digits": [
+        6,
+        7
+      ],
+      "digitsMin": 6,
+      "digitsMax": 7,
+      "exampleNumber": "4012345",
+      "nationalFormat": "4 012345",
+      "internationalFormat": "4 012345"
+    },
+    {
+      "isoCountry": "SR",
+      "callingCode": 597,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "211234",
+      "nationalFormat": "211-234",
+      "internationalFormat": "211-234"
+    },
+    {
+      "isoCountry": "SS",
+      "callingCode": 211,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "181234567",
+      "nationalFormat": "181 234 567",
+      "internationalFormat": "181 234 567"
+    },
+    {
+      "isoCountry": "ST",
+      "callingCode": 239,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2221234",
+      "nationalFormat": "222 1234",
+      "internationalFormat": "222 1234"
+    },
+    {
+      "isoCountry": "SV",
+      "callingCode": 503,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21234567",
+      "nationalFormat": "2123 4567",
+      "internationalFormat": "2123 4567"
+    },
+    {
+      "isoCountry": "SX",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "7215425678",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "SY",
+      "callingCode": 963,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "112345678",
+      "nationalFormat": "11 234 5678",
+      "internationalFormat": "11 234 5678"
+    },
+    {
+      "isoCountry": "SZ",
+      "callingCode": 268,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22171234",
+      "nationalFormat": "2217 1234",
+      "internationalFormat": "2217 1234"
+    },
+    {
+      "isoCountry": "TA",
+      "callingCode": 290,
+      "nationalPrefix": null,
+      "digits": [
+        4
+      ],
+      "digitsMin": 4,
+      "digitsMax": 4,
+      "exampleNumber": "8999",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "TC",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "6497121234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "TD",
+      "callingCode": 235,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22501234",
+      "nationalFormat": "22 50 12 34",
+      "internationalFormat": "22 50 12 34"
+    },
+    {
+      "isoCountry": "TG",
+      "callingCode": 228,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22212345",
+      "nationalFormat": "22 21 23 45",
+      "internationalFormat": "22 21 23 45"
+    },
+    {
+      "isoCountry": "TH",
+      "callingCode": 66,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21234567",
+      "nationalFormat": "2 123 4567",
+      "internationalFormat": "2 123 4567"
+    },
+    {
+      "isoCountry": "TJ",
+      "callingCode": 992,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "372123456",
+      "nationalFormat": "372 12 3456",
+      "internationalFormat": "372 12 3456"
+    },
+    {
+      "isoCountry": "TK",
+      "callingCode": 690,
+      "nationalPrefix": null,
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "3101",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "TL",
+      "callingCode": 670,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "2112345",
+      "nationalFormat": "211 2345",
+      "internationalFormat": "211 2345"
+    },
+    {
+      "isoCountry": "TM",
+      "callingCode": 993,
+      "nationalPrefix": "8",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "12345678",
+      "nationalFormat": "12 34-56-78",
+      "internationalFormat": "12 34-56-78"
+    },
+    {
+      "isoCountry": "TN",
+      "callingCode": 216,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "30010123",
+      "nationalFormat": "30 010 123",
+      "internationalFormat": "30 010 123"
+    },
+    {
+      "isoCountry": "TO",
+      "callingCode": 676,
+      "nationalPrefix": null,
+      "digits": [
+        5
+      ],
+      "digitsMin": 5,
+      "digitsMax": 5,
+      "exampleNumber": "20123",
+      "nationalFormat": "20-123",
+      "internationalFormat": "20-123"
+    },
+    {
+      "isoCountry": "TR",
+      "callingCode": 90,
+      "nationalPrefix": "0",
+      "digits": [
+        7,
+        10
+      ],
+      "digitsMin": 7,
+      "digitsMax": 10,
+      "exampleNumber": "2123456789",
+      "nationalFormat": "212 345 67 89",
+      "internationalFormat": "212 345 67 89"
+    },
+    {
+      "isoCountry": "TT",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "8682211234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "TV",
+      "callingCode": 688,
+      "nationalPrefix": null,
+      "digits": [
+        5
+      ],
+      "digitsMin": 5,
+      "digitsMax": 5,
+      "exampleNumber": "20123",
+      "nationalFormat": "20 123",
+      "internationalFormat": "20 123"
+    },
+    {
+      "isoCountry": "TW",
+      "callingCode": 886,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "221234567",
+      "nationalFormat": "2 2123 4567",
+      "internationalFormat": "2 2123 4567"
+    },
+    {
+      "isoCountry": "TZ",
+      "callingCode": 255,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "222345678",
+      "nationalFormat": "22 234 5678",
+      "internationalFormat": "22 234 5678"
+    },
+    {
+      "isoCountry": "UA",
+      "callingCode": 380,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "311234567",
+      "nationalFormat": "3112 34567",
+      "internationalFormat": "3112 34567"
+    },
+    {
+      "isoCountry": "UG",
+      "callingCode": 256,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "312345678",
+      "nationalFormat": "31 2345678",
+      "internationalFormat": "31 2345678"
+    },
+    {
+      "isoCountry": "US",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2015550123",
+      "nationalFormat": "(201) 555-0123",
+      "internationalFormat": "201-555-0123"
+    },
+    {
+      "isoCountry": "UY",
+      "callingCode": 598,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "21231234",
+      "nationalFormat": "2123 1234",
+      "internationalFormat": "2123 1234"
+    },
+    {
+      "isoCountry": "UZ",
+      "callingCode": 998,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "669050123",
+      "nationalFormat": "66 905 01 23",
+      "internationalFormat": "66 905 01 23"
+    },
+    {
+      "isoCountry": "VA",
+      "callingCode": 39,
+      "nationalPrefix": null,
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "0669812345",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "VC",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "7842661234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "VE",
+      "callingCode": 58,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2121234567",
+      "nationalFormat": "212-1234567",
+      "internationalFormat": "212-1234567"
+    },
+    {
+      "isoCountry": "VG",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2842291234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "VI",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "3406421234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "VN",
+      "callingCode": 84,
+      "nationalPrefix": "0",
+      "digits": [
+        7,
+        8
+      ],
+      "digitsMin": 7,
+      "digitsMax": 8,
+      "exampleNumber": "2101234567",
+      "nationalFormat": "210 1234 567",
+      "internationalFormat": "210 1234 567"
+    },
+    {
+      "isoCountry": "VU",
+      "callingCode": 678,
+      "nationalPrefix": null,
+      "digits": [
+        5
+      ],
+      "digitsMin": 5,
+      "digitsMax": 5,
+      "exampleNumber": "22123",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "WF",
+      "callingCode": 681,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "721234",
+      "nationalFormat": "72 12 34",
+      "internationalFormat": "72 12 34"
+    },
+    {
+      "isoCountry": "WS",
+      "callingCode": 685,
+      "nationalPrefix": null,
+      "digits": [
+        5,
+        6
+      ],
+      "digitsMin": 5,
+      "digitsMax": 6,
+      "exampleNumber": "22123",
+      "nationalFormat": "22123",
+      "internationalFormat": "22123"
+    },
+    {
+      "isoCountry": "XK",
+      "callingCode": 383,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "28012345",
+      "nationalFormat": "28 012 345",
+      "internationalFormat": "28 012 345"
+    },
+    {
+      "isoCountry": "YE",
+      "callingCode": 967,
+      "nationalPrefix": "0",
+      "digits": [
+        7,
+        8
+      ],
+      "digitsMin": 7,
+      "digitsMax": 8,
+      "exampleNumber": "1234567",
+      "nationalFormat": "1 234 567",
+      "internationalFormat": "1 234 567"
+    },
+    {
+      "isoCountry": "YT",
+      "callingCode": 262,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "269601234",
+      "nationalFormat": null,
+      "internationalFormat": null
+    },
+    {
+      "isoCountry": "ZA",
+      "callingCode": 27,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "101234567",
+      "nationalFormat": "10 123 4567",
+      "internationalFormat": "10 123 4567"
+    },
+    {
+      "isoCountry": "ZM",
+      "callingCode": 260,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "211234567",
+      "nationalFormat": "211 234 567",
+      "internationalFormat": "211 234 567"
+    },
+    {
+      "isoCountry": "ZW",
+      "callingCode": 263,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "202012345",
+      "nationalFormat": "20 2012345",
+      "internationalFormat": "20 2012345"
+    }
+  ]
+}

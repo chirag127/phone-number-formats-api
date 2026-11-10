@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "CK",
+      "callingCode": 682,
+      "nationalPrefix": null,
+      "digits": [
+        5
+      ],
+      "digitsMin": 5,
+      "digitsMax": 5,
+      "exampleNumber": "21234",
+      "nationalFormat": "21 234",
+      "internationalFormat": "21 234"
+    }
+  ]
+}

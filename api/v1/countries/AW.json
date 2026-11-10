@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "AW",
+      "callingCode": 297,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "5212345",
+      "nationalFormat": "521 2345",
+      "internationalFormat": "521 2345"
+    }
+  ]
+}

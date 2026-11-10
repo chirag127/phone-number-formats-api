@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "NL",
+      "callingCode": 31,
+      "nationalPrefix": "0",
+      "digits": [
+        5,
+        6
+      ],
+      "digitsMin": 5,
+      "digitsMax": 6,
+      "exampleNumber": "101234567",
+      "nationalFormat": "10 123 4567",
+      "internationalFormat": "10 123 4567"
+    }
+  ]
+}

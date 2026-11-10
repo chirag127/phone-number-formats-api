@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "TJ",
+      "callingCode": 992,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "372123456",
+      "nationalFormat": "372 12 3456",
+      "internationalFormat": "372 12 3456"
+    }
+  ]
+}

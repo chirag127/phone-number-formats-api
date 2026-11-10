@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "SS",
+      "callingCode": 211,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "181234567",
+      "nationalFormat": "181 234 567",
+      "internationalFormat": "181 234 567"
+    }
+  ]
+}

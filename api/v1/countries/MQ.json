@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "MQ",
+      "callingCode": 596,
+      "nationalPrefix": "0",
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "596301234",
+      "nationalFormat": "596 30 12 34",
+      "internationalFormat": "596 30 12 34"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "IT",
+      "callingCode": 39,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "0212345678",
+      "nationalFormat": "02 1234 5678",
+      "internationalFormat": "02 1234 5678"
+    }
+  ]
+}

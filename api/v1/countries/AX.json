@@ -1,0 +1,17 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "AX",
+      "callingCode": 358,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "181234567",
+      "nationalFormat": null,
+      "internationalFormat": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "FI",
+      "callingCode": 358,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "131234567",
+      "nationalFormat": "13 1234567",
+      "internationalFormat": "13 1234567"
+    }
+  ]
+}

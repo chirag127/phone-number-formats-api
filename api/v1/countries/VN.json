@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "VN",
+      "callingCode": 84,
+      "nationalPrefix": "0",
+      "digits": [
+        7,
+        8
+      ],
+      "digitsMin": 7,
+      "digitsMax": 8,
+      "exampleNumber": "2101234567",
+      "nationalFormat": "210 1234 567",
+      "internationalFormat": "210 1234 567"
+    }
+  ]
+}

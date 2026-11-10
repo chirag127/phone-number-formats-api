@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "IO",
+      "callingCode": 246,
+      "nationalPrefix": null,
+      "digits": [
+        7
+      ],
+      "digitsMin": 7,
+      "digitsMax": 7,
+      "exampleNumber": "3709100",
+      "nationalFormat": "370 9100",
+      "internationalFormat": "370 9100"
+    }
+  ]
+}

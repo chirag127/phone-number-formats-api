@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "CM",
+      "callingCode": 237,
+      "nationalPrefix": null,
+      "digits": [
+        9
+      ],
+      "digitsMin": 9,
+      "digitsMax": 9,
+      "exampleNumber": "222123456",
+      "nationalFormat": "2 22 12 34 56",
+      "internationalFormat": "2 22 12 34 56"
+    }
+  ]
+}

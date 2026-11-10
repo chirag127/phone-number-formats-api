@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "CI",
+      "callingCode": 225,
+      "nationalPrefix": null,
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2123456789",
+      "nationalFormat": "21 23 4 56789",
+      "internationalFormat": "21 23 4 56789"
+    }
+  ]
+}

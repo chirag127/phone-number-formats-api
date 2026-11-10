@@ -1,0 +1,17 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "BY",
+      "callingCode": 375,
+      "nationalPrefix": "8",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "152450911",
+      "nationalFormat": "152 45-09-11",
+      "internationalFormat": "152 45-09-11"
+    }
+  ]
+}

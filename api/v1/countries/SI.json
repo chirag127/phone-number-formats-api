@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "SI",
+      "callingCode": 386,
+      "nationalPrefix": "0",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "12345678",
+      "nationalFormat": "1 234 56 78",
+      "internationalFormat": "1 234 56 78"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "TD",
+      "callingCode": 235,
+      "nationalPrefix": null,
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "22501234",
+      "nationalFormat": "22 50 12 34",
+      "internationalFormat": "22 50 12 34"
+    }
+  ]
+}

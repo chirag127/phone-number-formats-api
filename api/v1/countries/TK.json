@@ -1,0 +1,17 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "TK",
+      "callingCode": 690,
+      "nationalPrefix": null,
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "3101",
+      "nationalFormat": null,
+      "internationalFormat": null
+    }
+  ]
+}

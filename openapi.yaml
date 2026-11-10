@@ -1,0 +1,132 @@
+openapi: 3.1.0
+info:
+  title: Phone Number Formats API
+  version: 1.0.0
+  description: >-
+    Per-country phone validation rules for all 254 territories in libphonenumber's
+    metadata: calling code, national prefix, valid digit lengths, example number and
+    national/international formats. Served as static JSON on GitHub Pages; no
+    authentication, no rate limits. The weekly workflow re-fetches the metadata and
+    commits only when it changed.
+  contact:
+    name: Chirag Singhal
+    email: chirag@oriz.in
+    url: https://github.com/chirag127
+  license:
+    name: MIT
+    url: https://github.com/chirag127/phone-number-formats-api/blob/main/LICENSE
+servers:
+  - url: https://chirag127.github.io/phone-number-formats-api
+    description: GitHub Pages
+paths:
+  /api/v1/countries.json:
+    get:
+      summary: All 254 territory records
+      description: >-
+        The full dataset: 245 geographic countries plus 9 non-geographic codes
+        (isoCountry "001", filed under their calling code).
+      operationId: listCountries
+      responses:
+        "200":
+          description: The complete dataset
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Document"
+  /api/v1/countries/{iso}.json:
+    get:
+      summary: One territory
+      description: >-
+        One territory per file. Geographic codes use the ISO alpha-2 code (e.g. `US`);
+        the nine non-geographic codes use `001-<callingCode>` (e.g. `001-881`).
+      operationId: getCountry
+      parameters:
+        - name: iso
+          in: path
+          required: true
+          schema:
+            type: string
+            pattern: "^[A-Z]{2}$|^001-\\d+$"
+          example: US
+      responses:
+        "200":
+          description: A single-record document
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Document"
+        "404":
+          description: Unknown territory
+  /data/formats.json:
+    get:
+      summary: Full dataset (repo source of truth)
+      operationId: getData
+      responses:
+        "200":
+          description: The complete dataset
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Document"
+components:
+  schemas:
+    Document:
+      type: object
+      required: [generatedFrom, count, records]
+      properties:
+        generatedFrom:
+          type: string
+          format: uri
+          example: https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml
+        count:
+          type: integer
+          example: 254
+        records:
+          type: array
+          items:
+            $ref: "#/components/schemas/Record"
+    Record:
+      type: object
+      required: [isoCountry, callingCode, digits, digitsMin, digitsMax, exampleNumber, nationalFormat, internationalFormat]
+      properties:
+        isoCountry:
+          type: string
+          description: ISO 3166-1 alpha-2 code, or "001" for non-geographic codes
+          example: US
+        callingCode:
+          type: integer
+          nullable: true
+          example: 1
+        nationalPrefix:
+          type: string
+          nullable: true
+          example: "1"
+        digits:
+          type: array
+          items:
+            type: integer
+          description: Every valid national number length, sorted
+          example: [10]
+        digitsMin:
+          type: integer
+          nullable: true
+          example: 10
+        digitsMax:
+          type: integer
+          nullable: true
+          example: 10
+        exampleNumber:
+          type: string
+          nullable: true
+          description: A valid national example number, or null
+          example: "2015550123"
+        nationalFormat:
+          type: string
+          nullable: true
+          description: The example number shaped by the first matching national format, or null
+          example: "(201) 555-0123"
+        internationalFormat:
+          type: string
+          nullable: true
+          description: The example number shaped by the international format, or null
+          example: "201-555-0123"

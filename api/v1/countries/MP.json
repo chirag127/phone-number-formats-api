@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "MP",
+      "callingCode": 1,
+      "nationalPrefix": "1",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "6702345678",
+      "nationalFormat": null,
+      "internationalFormat": null
+    }
+  ]
+}

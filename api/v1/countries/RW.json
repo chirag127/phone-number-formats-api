@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "RW",
+      "callingCode": 250,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "250123456",
+      "nationalFormat": "250 123 456",
+      "internationalFormat": "250 123 456"
+    }
+  ]
+}

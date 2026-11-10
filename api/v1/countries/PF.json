@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "PF",
+      "callingCode": 689,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "40412345",
+      "nationalFormat": "40 41 23 45",
+      "internationalFormat": "40 41 23 45"
+    }
+  ]
+}

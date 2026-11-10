@@ -1,0 +1,17 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "KE",
+      "callingCode": 254,
+      "nationalPrefix": "0",
+      "digits": [],
+      "digitsMin": null,
+      "digitsMax": null,
+      "exampleNumber": "202012345",
+      "nationalFormat": "20 2012345",
+      "internationalFormat": "20 2012345"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "CO",
+      "callingCode": 57,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        10
+      ],
+      "digitsMin": 8,
+      "digitsMax": 10,
+      "exampleNumber": "6012345678",
+      "nationalFormat": "601 2345678",
+      "internationalFormat": "601 2345678"
+    }
+  ]
+}

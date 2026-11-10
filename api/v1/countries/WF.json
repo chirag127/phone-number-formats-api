@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "WF",
+      "callingCode": 681,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "721234",
+      "nationalFormat": "72 12 34",
+      "internationalFormat": "72 12 34"
+    }
+  ]
+}

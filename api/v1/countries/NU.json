@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "NU",
+      "callingCode": 683,
+      "nationalPrefix": null,
+      "digits": [
+        4
+      ],
+      "digitsMin": 4,
+      "digitsMax": 4,
+      "exampleNumber": "7012",
+      "nationalFormat": null,
+      "internationalFormat": null
+    }
+  ]
+}

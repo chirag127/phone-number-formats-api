@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "TM",
+      "callingCode": 993,
+      "nationalPrefix": "8",
+      "digits": [
+        8
+      ],
+      "digitsMin": 8,
+      "digitsMax": 8,
+      "exampleNumber": "12345678",
+      "nationalFormat": "12 34-56-78",
+      "internationalFormat": "12 34-56-78"
+    }
+  ]
+}

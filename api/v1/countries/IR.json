@@ -1,0 +1,21 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "IR",
+      "callingCode": 98,
+      "nationalPrefix": "0",
+      "digits": [
+        4,
+        5,
+        10
+      ],
+      "digitsMin": 4,
+      "digitsMax": 10,
+      "exampleNumber": "2123456789",
+      "nationalFormat": "21 2345 6789",
+      "internationalFormat": "21 2345 6789"
+    }
+  ]
+}

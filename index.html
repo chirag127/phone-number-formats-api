@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Phone Number Formats API — free static JSON of per-country phone validation rules</title>
+<meta name="description" content="Phone validation rules for 254 territories — calling code, national prefix, digit lengths, example number, formats — as free static JSON. No authentication, no rate limit, no server.">
+<style>
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #9198a1;
+    --accent: #58a6ff;
+    --border: #30363d;
+    --card: #161b22;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+  }
+  main { max-width: 52rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  h1 { font-size: 1.9rem; margin: 0 0 0.25rem; }
+  h2 { font-size: 1.25rem; margin-top: 2.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.3rem; }
+  p.lead { color: var(--muted); font-size: 1.05rem; }
+  a { color: var(--accent); }
+  code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.1em 0.35em;
+    font-size: 0.9em;
+  }
+  pre {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+    font-size: 0.85rem;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: 0.4rem; }
+  .badge {
+    display: inline-block;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.15rem 0.7rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-right: 0.4rem;
+  }
+  footer.hire-me {
+    margin-top: 3rem;
+    border-top: 1px solid var(--border);
+    padding-top: 1.5rem;
+  }
+  footer.hire-me h3 { margin: 0 0 0.5rem; }
+  footer.hire-me p { margin: 0.25rem 0; }
+  #output {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.85rem;
+    white-space: pre-wrap;
+    min-height: 4rem;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<main>
+
+<h1>Phone Number Formats API</h1>
+<p class="lead">
+  Phone validation rules for all 254 territories in libphonenumber's metadata — calling code,
+  national prefix, digit lengths, example number and national/international formats — as free
+  static JSON. No authentication. No server. No rate limit.
+</p>
+<p>
+  <span class="badge">254 territories</span>
+  <span class="badge">245 geographic · 9 non-geographic</span>
+  <span class="badge">updated weekly</span>
+</p>
+
+<h2>Try it</h2>
+<pre>curl https://chirag127.github.io/phone-number-formats-api/api/v1/countries/US.json</pre>
+<p>Or fetch the US record right now:</p>
+<div id="output">Loading…</div>
+
+<h2>Endpoints</h2>
+<table>
+  <tr><th>Endpoint</th><th>Description</th><th>Size</th></tr>
+  <tr>
+    <td><code>/api/v1/countries.json</code></td>
+    <td>All 254 records (245 geographic + 9 non-geographic)</td>
+    <td>~72 KB</td>
+  </tr>
+  <tr>
+    <td><code>/api/v1/countries/{iso}.json</code></td>
+    <td>One territory per file, e.g. <code>US.json</code>; non-geographic codes filed as <code>001-881.json</code> etc.</td>
+    <td>255 files</td>
+  </tr>
+  <tr>
+    <td><code>/data/formats.json</code></td>
+    <td>Same data as above (source of truth for the repo)</td>
+    <td>~72 KB</td>
+  </tr>
+</table>
+
+<h2>What you get</h2>
+<table>
+  <tr><th>Field</th><th>Example</th><th>Notes</th></tr>
+  <tr>
+    <td><code>isoCountry</code></td>
+    <td><code>"US"</code></td>
+    <td>ISO 3166-1 alpha-2 code; <code>"001"</code> for non-geographic codes</td>
+  </tr>
+  <tr>
+    <td><code>callingCode</code></td>
+    <td><code>1</code></td>
+    <td>ITU-T E.164 country calling code</td>
+  </tr>
+  <tr>
+    <td><code>nationalPrefix</code></td>
+    <td><code>"1"</code></td>
+    <td>Digit dialled before a national number, or <code>null</code></td>
+  </tr>
+  <tr>
+    <td><code>digits</code></td>
+    <td><code>[10]</code></td>
+    <td>Every valid national number length, from <code>possibleLengths</code>, sorted</td>
+  </tr>
+  <tr>
+    <td><code>exampleNumber</code></td>
+    <td><code>"2015550123"</code></td>
+    <td>A valid national example from the metadata</td>
+  </tr>
+  <tr>
+    <td><code>nationalFormat</code></td>
+    <td><code>"(201) 555-0123"</code></td>
+    <td>The example number shaped by the territory's first matching format — <code>null</code> when the pattern is a Java-only regex</td>
+  </tr>
+  <tr>
+    <td><code>internationalFormat</code></td>
+    <td><code>"201-555-0123"</code></td>
+    <td>Same for the international format — <code>null</code> when unavailable</td>
+  </tr>
+</table>
+
+<h2>How it stays fresh</h2>
+<p>
+  The <code>update.yml</code> workflow runs weekly, fetches
+  <a href="https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml">PhoneNumberMetadata.xml</a>
+  from the libphonenumber project, regenerates the JSON and commits only when the data actually
+  changed. GitHub Pages serves the result. No server to run.
+</p>
+
+<h2>Data source and accuracy</h2>
+<p>
+  The source is the
+  <a href="https://github.com/google/libphonenumber">PhoneNumberMetadata.xml</a> maintained by
+  Google's libphonenumber project — the same metadata that backs Android, iOS and Java phone
+  validation. All 254 territories are included; every record carries an example number, and 207
+  also carry a matching national/international format. Digit lengths come from
+  <code>possibleLengths</code> at the national level.
+</p>
+
+<h2>Limits, stated plainly</h2>
+<ul>
+  <li>47 of 254 territories have no <code>nationalFormat</code>/<code>internationalFormat</code> — their patterns are Java regexes a JavaScript engine rejects. The raw validation fields are still complete.</li>
+  <li>Format patterns are not exposed; only the formatted result is. Use libphonenumber directly if you need full pattern data.</li>
+  <li>Formats are illustrative — the example number shaped by the first matching pattern — not a guarantee for every real number.</li>
+  <li>libphonenumber updates its metadata frequently, so expect a weekly commit most weeks.</li>
+</ul>
+
+<h2>Licence</h2>
+<p>Data: libphonenumber's metadata is licensed under the Apache License 2.0; this API republishes
+it with attribution. Code: MIT.</p>
+
+<footer class="hire-me">
+  <h3>Hire me</h3>
+  <p>Chirag Singhal — building free, open APIs and tools.</p>
+  <p>
+    <a href="mailto:chirag@oriz.in">chirag@oriz.in</a> ·
+    <a href="https://github.com/chirag127">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/chirag127/">LinkedIn</a> ·
+    <a href="https://x.com/singhal127">X</a> ·
+    <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a> ·
+    <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a> ·
+    <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a> ·
+    <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
+  </p>
+</footer>
+
+</main>
+<script>
+  fetch("api/v1/countries/US.json")
+    .then((r) => r.json())
+    .then((d) => {
+      document.getElementById("output").textContent =
+        JSON.stringify(d.records[0], null, 2) + "\n… " + d.count + " record";
+    })
+    .catch(() => {
+      document.getElementById("output").textContent =
+        "Live fetch failed here — on GitHub Pages this returns the real data.";
+    });
+</script>
+</body>
+</html>

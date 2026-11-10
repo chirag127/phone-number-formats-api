@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "IQ",
+      "callingCode": 964,
+      "nationalPrefix": "0",
+      "digits": [
+        8,
+        9
+      ],
+      "digitsMin": 8,
+      "digitsMax": 9,
+      "exampleNumber": "12345678",
+      "nationalFormat": "1 234 5678",
+      "internationalFormat": "1 234 5678"
+    }
+  ]
+}

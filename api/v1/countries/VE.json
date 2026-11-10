@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "VE",
+      "callingCode": 58,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2121234567",
+      "nationalFormat": "212-1234567",
+      "internationalFormat": "212-1234567"
+    }
+  ]
+}

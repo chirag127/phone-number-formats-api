@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "001",
+      "callingCode": 881,
+      "nationalPrefix": null,
+      "digits": [
+        9,
+        10
+      ],
+      "digitsMin": 9,
+      "digitsMax": 10,
+      "exampleNumber": "612345678",
+      "nationalFormat": "6 123 45678",
+      "internationalFormat": "6 123 45678"
+    }
+  ]
+}

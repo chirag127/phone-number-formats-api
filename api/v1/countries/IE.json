@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "IE",
+      "callingCode": 353,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2212345",
+      "nationalFormat": "22 12345",
+      "internationalFormat": "22 12345"
+    }
+  ]
+}

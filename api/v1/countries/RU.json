@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "RU",
+      "callingCode": 7,
+      "nationalPrefix": "8",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "3011234567",
+      "nationalFormat": "301 123-45-67",
+      "internationalFormat": "301 123-45-67"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "AR",
+      "callingCode": 54,
+      "nationalPrefix": "0",
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "1123456789",
+      "nationalFormat": "11 2345-6789",
+      "internationalFormat": "11 2345-6789"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "HN",
+      "callingCode": 504,
+      "nationalPrefix": null,
+      "digits": [
+        11
+      ],
+      "digitsMin": 11,
+      "digitsMax": 11,
+      "exampleNumber": "22123456",
+      "nationalFormat": "2212-3456",
+      "internationalFormat": "2212-3456"
+    }
+  ]
+}

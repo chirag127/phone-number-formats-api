@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "SM",
+      "callingCode": 378,
+      "nationalPrefix": null,
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "0549886377",
+      "nationalFormat": "0549 886377",
+      "internationalFormat": "0549 886377"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "PM",
+      "callingCode": 508,
+      "nationalPrefix": "0",
+      "digits": [
+        6,
+        9
+      ],
+      "digitsMin": 6,
+      "digitsMax": 9,
+      "exampleNumber": "430123",
+      "nationalFormat": "43 01 23",
+      "internationalFormat": "43 01 23"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "CW",
+      "callingCode": 599,
+      "nationalPrefix": null,
+      "digits": [
+        7,
+        8
+      ],
+      "digitsMin": 7,
+      "digitsMax": 8,
+      "exampleNumber": "94351234",
+      "nationalFormat": "9 435 1234",
+      "internationalFormat": "9 435 1234"
+    }
+  ]
+}

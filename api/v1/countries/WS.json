@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "WS",
+      "callingCode": 685,
+      "nationalPrefix": null,
+      "digits": [
+        5,
+        6
+      ],
+      "digitsMin": 5,
+      "digitsMax": 6,
+      "exampleNumber": "22123",
+      "nationalFormat": "22123",
+      "internationalFormat": "22123"
+    }
+  ]
+}

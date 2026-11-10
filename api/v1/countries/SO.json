@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "SO",
+      "callingCode": 252,
+      "nationalPrefix": "0",
+      "digits": [
+        6,
+        7
+      ],
+      "digitsMin": 6,
+      "digitsMax": 7,
+      "exampleNumber": "4012345",
+      "nationalFormat": "4 012345",
+      "internationalFormat": "4 012345"
+    }
+  ]
+}

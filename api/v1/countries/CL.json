@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "CL",
+      "callingCode": 56,
+      "nationalPrefix": null,
+      "digits": [
+        10,
+        11
+      ],
+      "digitsMin": 10,
+      "digitsMax": 11,
+      "exampleNumber": "600123456",
+      "nationalFormat": "600 123 456",
+      "internationalFormat": "600 123 456"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "MX",
+      "callingCode": 52,
+      "nationalPrefix": null,
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "2001234567",
+      "nationalFormat": "200 123 4567",
+      "internationalFormat": "200 123 4567"
+    }
+  ]
+}

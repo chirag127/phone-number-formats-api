@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "NF",
+      "callingCode": 672,
+      "nationalPrefix": null,
+      "digits": [
+        6
+      ],
+      "digitsMin": 6,
+      "digitsMax": 6,
+      "exampleNumber": "106609",
+      "nationalFormat": "10 6609",
+      "internationalFormat": "10 6609"
+    }
+  ]
+}

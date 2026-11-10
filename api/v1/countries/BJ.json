@@ -1,0 +1,19 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "BJ",
+      "callingCode": 229,
+      "nationalPrefix": null,
+      "digits": [
+        10
+      ],
+      "digitsMin": 10,
+      "digitsMax": 10,
+      "exampleNumber": "0120211234",
+      "nationalFormat": "01 20 21 12 34",
+      "internationalFormat": "01 20 21 12 34"
+    }
+  ]
+}

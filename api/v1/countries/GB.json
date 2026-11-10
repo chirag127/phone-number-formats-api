@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "GB",
+      "callingCode": 44,
+      "nationalPrefix": "0",
+      "digits": [
+        9,
+        10
+      ],
+      "digitsMin": 9,
+      "digitsMax": 10,
+      "exampleNumber": "1212345678",
+      "nationalFormat": "121 234 5678",
+      "internationalFormat": "121 234 5678"
+    }
+  ]
+}

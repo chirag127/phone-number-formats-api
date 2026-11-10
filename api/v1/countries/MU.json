@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "MU",
+      "callingCode": 230,
+      "nationalPrefix": null,
+      "digits": [
+        7,
+        8
+      ],
+      "digitsMin": 7,
+      "digitsMax": 8,
+      "exampleNumber": "54480123",
+      "nationalFormat": "5448 0123",
+      "internationalFormat": "5448 0123"
+    }
+  ]
+}

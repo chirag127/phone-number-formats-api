@@ -1,0 +1,20 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/google/libphonenumber/master/resources/PhoneNumberMetadata.xml",
+  "count": 1,
+  "records": [
+    {
+      "isoCountry": "LB",
+      "callingCode": 961,
+      "nationalPrefix": "0",
+      "digits": [
+        7,
+        8
+      ],
+      "digitsMin": 7,
+      "digitsMax": 8,
+      "exampleNumber": "1123456",
+      "nationalFormat": "1 123 456",
+      "internationalFormat": "1 123 456"
+    }
+  ]
+}
